@@ -1,0 +1,13 @@
+The numbers from two files are:
+1
+2
+3
+4
+7
+9
+11
+12
+15
+19
+50
+100
